@@ -185,7 +185,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -20.2024, 8.37005, -9.23739)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.0562, 8.37005, -17.3351)
 
 [node name="tree_pine_yellow_large2" parent="." instance=ExtResource("22_t64mv")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.94556, 8.37005, -19.7871)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.94556, 9.37005, -22.7871)
 
 [node name="tree_pine_yellow_medium2" parent="." instance=ExtResource("23_838ei")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.68044, 8.37005, -17.6473)
